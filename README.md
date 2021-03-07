@@ -5,9 +5,9 @@ The motivation of this project is to continually build a portfolio website which
 ## Sceen Capture of Live Website
 #
 
-![WebPage ScreenCapture](./Assets\Porfolio-Capture.JPG "Portfolio Page Capture")
+![WebPage ScreenCapture](./Assets\Porfolio-Capture.JPG/ "Portfolio Page Capture")
 #
-![WebPage ScreenCapture](./Assets\Contact-capture.JPG "Contact Page Capture")
+![WebPage ScreenCapture](./Assets\Contact-capture.JPG/ "Contact Page Capture")
 
 #
 ## Link to Live Website
